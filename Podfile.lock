@@ -1,0 +1,30 @@
+PODS:
+  - ObjectMapper (4.2.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - ObjectMapper
+  - ReachabilitySwift
+  - SDWebImage
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+    - ReachabilitySwift
+    - SDWebImage
+    - Toaster
+
+SPEC CHECKSUMS:
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: 8d70fbf3cddd455c9f1e2bae020bbf7b23fd2cfd
+
+COCOAPODS: 1.9.3
